@@ -1,0 +1,13 @@
+body{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image:url(https://img.freepik.com/free-vector/space-game-level-background-with-platforms_107791-3660.jpg?w=2000);
+}
+
+#game{
+    background-image:url(https://img.freepik.com/free-vector/space-game-background-with-landscape-planet_107791-1700.jpg?w=2000);
+    margin-top: 10rem;
+    border: 2px solid #10cbff;
+}
